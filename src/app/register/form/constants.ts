@@ -133,7 +133,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
     {
       embassy: 'Konzulat Srbije u Australiji, Sidnej',
@@ -672,7 +672,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -1271,7 +1271,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -1648,7 +1648,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -1739,7 +1739,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -2091,7 +2091,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -2273,7 +2273,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -2473,7 +2473,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -2543,7 +2543,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
@@ -2621,7 +2621,7 @@ export const STATIONS_BY_COUNTRY: Map<VotingCountry, PollingStation[]> = new Map
     {
       embassy: 'Ambasada Srbije u Australiji, Kanbera',
       embassyCyr: 'Амбасада Србије у Аустралији, Канбера',
-      email: 'embassy.canberra@serbia.org.au',
+      email: 'srb.emb.australia@mfa.rs',
     },
   ],
   ],
